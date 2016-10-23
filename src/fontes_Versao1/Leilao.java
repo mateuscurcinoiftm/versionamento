@@ -13,6 +13,8 @@ public class Leilao {
 
     private String objetoLeiloado;
 	
+	//teste
+	
     private List<Lance> lances;
 
     public Leilao(String objetoLeiloado) {
